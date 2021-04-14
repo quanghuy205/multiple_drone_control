@@ -1,0 +1,7 @@
+
+
+- gazebo_multiple_sim: ./Tools/gazebo_sitl_multiple_run.sh -m iris -n 2
+
+- MAVSDK-Python connect multiple drones: https://github.com/mavlink/MAVSDK/issues/1130
+
+-
