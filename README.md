@@ -10,5 +10,5 @@ Idea:
 # multiple_drone_control
 Run:
 
-cd MAVSDK_Python
+cd MAVSDK_Python //
 python3 main.py
